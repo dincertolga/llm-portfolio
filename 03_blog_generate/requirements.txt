@@ -1,0 +1,10 @@
+langchain
+langchain_community
+sentence_transformers
+ctransformers
+uvicorn
+python-box
+huggingface_hub
+python-dotenv
+streamlit
+openai
