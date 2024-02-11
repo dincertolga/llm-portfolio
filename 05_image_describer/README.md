@@ -1,1 +1,3 @@
-
+- Performs object detection using a pretrained network - model: facebook/detr-resnet-50
+- Uses model: Salesforce/blip-image-captioning-large to generate captions for detected objects
+- Uses ChatOpenAI to talk to the captions of the detected objects
