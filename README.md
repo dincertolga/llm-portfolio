@@ -1,5 +1,5 @@
 # Portfolio on langchain GenAI applications
-As an engineer specializing in image analysis and deep learning, I want to shift my focus towards generative AI.
+As an engineer specializing in image analysis and deep learning, I am exploring opportunities in generative AI.
 This repo contains my introduction to LLM applications using langchain. 
 
 Some of these applications have been deployed to huggingface spaces: https://huggingface.co/dincertolga
